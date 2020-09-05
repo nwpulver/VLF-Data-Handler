@@ -31,7 +31,7 @@ that there are not double spaces. Check it twice, it will just be easier that wa
  
 
 ## fraser.py tutorial
-The hard part is done. Now all you do is take your files from VLF_Extract.py and put them into fraser.py
+The fraser.py program was written entirely by me, but I could not have done it without the help of Kyle for the data extraction. The hard part is done. Now all you do is take your files from VLF_Extract.py and put them into fraser.py
 >python fraser.py some_vlf_data.txt_khz_vlf.txt 
 * This will output a plot of the fraser tilt and the distance along the profile in meters as well as a CSV file with all of the new columns (fraser tilt, distance along profile) added so that you may plot in a GIS software if you would like. 
 
