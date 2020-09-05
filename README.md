@@ -13,7 +13,6 @@ that there are not double spaces. Check it twice, it will just be easier that wa
 >/ID 1 file 890402dp.wmv 04 IV 19
 >/UTC+13
 >/GPS datum WGS84   
-
 >/X Y elevation nT sq cor-nT sat time picket-x picket-y slope n*[kHz ip op h1 h2 pT]
 * change it to look like 
 >X Y elevation nT sq cor-nT sat time picket-x picket-y slope n*[kHz ip op h1 h2 pT]
